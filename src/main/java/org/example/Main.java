@@ -44,12 +44,6 @@ public class Main {
 
         char[] sayiStrings = String.valueOf(sayi).toCharArray();
 
-        String sayideneme = String.valueOf(sayi);
-
-        System.out.println(sayideneme);
-        System.out.println("*******");
-        System.out.println(sayiStrings);
-
         String sayiText = "";
 
         for (char sayiString : sayiStrings) {
